@@ -1,0 +1,35 @@
+      body{
+        font-family: fantasy;
+        color: rgb(199, 177, 14);
+      }
+      #landscape{
+        z-index: 1;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+        width: 250px;
+      }
+      #winston{
+        z-index: 2;
+        position: absolute;
+        top: 150px;
+        left: 20px;
+        width: 40px;
+        height: 40px;
+      }
+      #hopper{ 
+        z-index: 3;
+        position: absolute;
+        top: 30px;
+        left: 200px;
+        width: 50px; 
+      }
+      h1{
+        position: fixed;
+        top: 30px;
+        left:20px; 
+      }
+      #song{
+        position: relative;
+        top: 220px;
+      }
